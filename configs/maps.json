@@ -1,0 +1,37 @@
+{
+   "Map1": {
+      "img_url":"https://raw.githubusercontent.com/Starmoon9159/Not_something/main/1.jpg",
+      "title": "幻想大陸I",
+      "dep:": "就只是測試的文字ww",
+      "starts": "⭐✩✩✩✩",
+      "tags": [
+         "單人",
+         "大型生存地圖",
+         "魔法",
+         "RPG"
+      ]
+   },
+   "Map2": {
+      "img_url":"https://raw.githubusercontent.com/Starmoon9159/Not_something/main/1.jpg",
+      "title": "測試",
+      "dep:": "就只是測試的文字ww",
+      "starts": "⭐✩✩✩✩",
+      "tags": [
+         "solo",
+         "big",
+         "magic"
+      ]
+   },
+   "Map3": {
+      "img_url":"https://raw.githubusercontent.com/Starmoon9159/Not_something/main/1.jpg",
+      "title": "幻想大陸I",
+      "dep:": "就只是測試的文字ww",
+      "starts": "⭐✩✩✩✩",
+      "tags": [
+         "單人",
+         "大型生存地圖",
+         "魔法",
+         "RPG"
+      ]
+   }
+}
